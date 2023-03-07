@@ -7,3 +7,4 @@ set smartindent
 set softtabstop=2
 set cursorline
 set showmatch
+filetype indent plugin on
